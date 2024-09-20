@@ -7,21 +7,13 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
+1.Carlos Gestor
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Carlos, um gestor sênior em uma empresa de engenharia, trabalha longas horas e supervisiona vários projetos de construção. Com foco na segurança, ele se preocupa especialmente com a prevenção de incêndios nos canteiros de obra, onde há materiais inflamáveis e maquinários pesados. No entanto, sua agenda lotada não lhe permite lidar pessoalmente com a inspeção e manutenção dos sistemas de segurança. Ele precisa de uma empresa confiável que cuide das inspeções regulares e da manutenção dos equipamentos de prevenção de incêndio, garantindo que tudo esteja dentro das normas. Isso lhe proporcionaria tranquilidade tanto no trabalho quanto em casa, sabendo que está seguro.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
-
+<div align = "center">
+<img <img width="350px" alt="anaexecutiva" src="https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/assets/143142269/2a506614-99fd-4b53-9934-ee80b12458b2">
+</div>
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
