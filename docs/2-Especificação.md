@@ -20,7 +20,7 @@ Carlos, um gestor sênior em uma empresa de engenharia, trabalha longas horas e 
 Mariana, uma arquiteta talentosa, vive uma rotina agitada entre projetos e reuniões. Embora ame seu trabalho, ela raramente tem tempo para cuidar dos detalhes de sua casa. Preocupada com a segurança de sua residência, especialmente com o risco de incêndio, Mariana quer garantir que sua casa esteja protegida. Ela precisa de um serviço especializado em prevenção de incêndios que possa realizar inspeções regulares e garantir que os alarmes, extintores e outros equipamentos de segurança estejam funcionando corretamente. Assim, Mariana pode focar no trabalho, sabendo que sua casa está segura.
 
 <div align = "center">
-<img <img width="350" alt="empresario" src="https://github.com/user-attachments/assets/ecdee88f-d09e-4fb0-8a20-1dfc0d489eac">
+<img <img width="350" alt="advogada" src="https://github.com/user-attachments/assets/1bd95fc0-6bf8-4672-a4fa-2ef59999e528">
 </div>
 
 3.Rafael Chef de Restaurante
@@ -28,7 +28,7 @@ Mariana, uma arquiteta talentosa, vive uma rotina agitada entre projetos e reuni
 Rafael, um chef renomado, comanda um restaurante movimentado e sabe que o risco de incêndio na cozinha é alto. Com a agenda cheia, ele precisa de um serviço confiável de prevenção de incêndios para garantir que os extintores, sprinklers e alarmes estejam em perfeito estado. Assim, Rafael pode focar na culinária, sabendo que o restaurante está seguro.
 
 <div align = "center">
-<img <img width="350" alt="empresario" src="https://github.com/user-attachments/assets/ecdee88f-d09e-4fb0-8a20-1dfc0d489eac">
+<img <img width="350" alt="cozinha" src="https://github.com/user-attachments/assets/c7fc2ed6-1da4-44f9-b9c7-03821dac6514">
 </div>
 
 4.Luciana Dona de Casa
@@ -36,7 +36,7 @@ Rafael, um chef renomado, comanda um restaurante movimentado e sabe que o risco 
 Luciana é dona de casa e cuida sozinha de seu lar e de seus dois filhos pequenos. Com tantos afazeres, ela se preocupa com a segurança da família, especialmente com o risco de incêndios, já que utiliza diversos eletrodomésticos diariamente. Ela precisa de um serviço especializado que possa instalar e manter alarmes de incêndio, extintores e sensores de fumaça em perfeito estado. Isso garantiria a proteção de sua casa e a tranquilidade de saber que sua família está segura, permitindo que ela se concentre nas demais tarefas do dia a dia.
 
 <div align = "center">
-<img <img width="350" alt="empresario" src="https://github.com/user-attachments/assets/ecdee88f-d09e-4fb0-8a20-1dfc0d489eac">
+<img <img width="350"  alt="donadecsa" src="https://github.com/user-attachments/assets/b45e9dc0-1715-4687-bcee-fa7a09932678">
 </div>
 
 ## Histórias de Usuários
