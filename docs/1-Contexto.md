@@ -15,13 +15,10 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 > - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
-
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+# Objetivo Geral
+O objetivo geral deste trabalho é criar uma plataforma digital para uma empresa de proteção contra incêndios, organizando e compartilhando informações claras sobre seus serviços, produtos e práticas de segurança. Queremos garantir que a plataforma seja fácil de usar e que ajude clientes e parceiros a acessar tudo o que precisam de forma prática.
+# Objetivo específicos
+Os objetivos específicos incluem disponibilizar materiais educativos e orientações técnicas sobre segurança contra incêndio, com o intuito de promover a conscientização sobre boas práticas de segurança e garantir que as soluções adotadas sejam eficazes e melhorar a comunicação, tornando o contato com a empresa rápido e fácil. Isso permitirá que clientes e parceiros peçam orçamentos ou tirem dúvidas de forma prática, fortalecendo a confiança e o relacionamento com a empresa.
 
 ## Justificativa
 
