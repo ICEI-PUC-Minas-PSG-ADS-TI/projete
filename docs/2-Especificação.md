@@ -12,8 +12,33 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 Carlos, um gestor sênior em uma empresa de engenharia, trabalha longas horas e supervisiona vários projetos de construção. Com foco na segurança, ele se preocupa especialmente com a prevenção de incêndios nos canteiros de obra, onde há materiais inflamáveis e maquinários pesados. No entanto, sua agenda lotada não lhe permite lidar pessoalmente com a inspeção e manutenção dos sistemas de segurança. Ele precisa de uma empresa confiável que cuide das inspeções regulares e da manutenção dos equipamentos de prevenção de incêndio, garantindo que tudo esteja dentro das normas. Isso lhe proporcionaria tranquilidade tanto no trabalho quanto em casa, sabendo que está seguro.
 
 <div align = "center">
-<img <img width="229" alt="empresario" src="https://github.com/user-attachments/assets/ecdee88f-d09e-4fb0-8a20-1dfc0d489eac">
+<img <img width="350" alt="empresario" src="https://github.com/user-attachments/assets/ecdee88f-d09e-4fb0-8a20-1dfc0d489eac">
 </div>
+
+2.Mariana Arquiteta
+
+Mariana, uma arquiteta talentosa, vive uma rotina agitada entre projetos e reuniões. Embora ame seu trabalho, ela raramente tem tempo para cuidar dos detalhes de sua casa. Preocupada com a segurança de sua residência, especialmente com o risco de incêndio, Mariana quer garantir que sua casa esteja protegida. Ela precisa de um serviço especializado em prevenção de incêndios que possa realizar inspeções regulares e garantir que os alarmes, extintores e outros equipamentos de segurança estejam funcionando corretamente. Assim, Mariana pode focar no trabalho, sabendo que sua casa está segura.
+
+<div align = "center">
+<img <img width="350" alt="empresario" src="https://github.com/user-attachments/assets/ecdee88f-d09e-4fb0-8a20-1dfc0d489eac">
+</div>
+
+3.Rafael Chef de Restaurante
+
+Rafael, um chef renomado, comanda um restaurante movimentado e sabe que o risco de incêndio na cozinha é alto. Com a agenda cheia, ele precisa de um serviço confiável de prevenção de incêndios para garantir que os extintores, sprinklers e alarmes estejam em perfeito estado. Assim, Rafael pode focar na culinária, sabendo que o restaurante está seguro.
+
+<div align = "center">
+<img <img width="350" alt="empresario" src="https://github.com/user-attachments/assets/ecdee88f-d09e-4fb0-8a20-1dfc0d489eac">
+</div>
+
+4.Luciana Dona de Casa
+
+Luciana é dona de casa e cuida sozinha de seu lar e de seus dois filhos pequenos. Com tantos afazeres, ela se preocupa com a segurança da família, especialmente com o risco de incêndios, já que utiliza diversos eletrodomésticos diariamente. Ela precisa de um serviço especializado que possa instalar e manter alarmes de incêndio, extintores e sensores de fumaça em perfeito estado. Isso garantiria a proteção de sua casa e a tranquilidade de saber que sua família está segura, permitindo que ela se concentre nas demais tarefas do dia a dia.
+
+<div align = "center">
+<img <img width="350" alt="empresario" src="https://github.com/user-attachments/assets/ecdee88f-d09e-4fb0-8a20-1dfc0d489eac">
+</div>
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
