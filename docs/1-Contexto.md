@@ -31,11 +31,9 @@ O objetivo geral deste trabalho é criar uma plataforma digital para uma empresa
 Os objetivos específicos incluem disponibilizar materiais educativos e orientações técnicas sobre segurança contra incêndio, com o intuito de promover a conscientização sobre boas práticas de segurança e garantir que as soluções adotadas sejam eficazes e melhorar a comunicação, tornando o contato com a empresa rápido e fácil. Isso permitirá que clientes e parceiros peçam orçamentos ou tirem dúvidas de forma prática, fortalecendo a confiança e o relacionamento com a empresa.
 
 ## Justificativa
-
-Ter uma empresa especializada em prevenção e combate a incêndios é fundamental para proteger vidas humanas e patrimônio. Isso também assegura que as regulamentações de segurança sejam respeitadas
+Ter uma empresa especializada em prevenção e combate a incêndios é fundamental para proteger vidas humanas e patrimônio. Isso também assegura que as regulamentações de segurança sejam respeitadas.
 O mercado relacionado à segurança contra fogo vem crescendo cada vez mais, impulsionado pela urbanização em expansão e pelo aumento contínuo da necessidade de proteção contra riscos de incêndio. Em alguns locais, incidentes de grandes proporções evidenciaram a importância crucial desse tipo de empresa para a sociedade.
 
 ## Público-Alvo
-
-O público-alvo inclui diversos tipos de empresas, desde aquelas que lidam com materiais inflamáveis, até aquelas que precisam cumprir normas de segurança. Também prestamos serviços para pessoas interessadas em melhorar a segurança de suas residências.
+<p align="justify"> O público-alvo inclui diversos tipos de empresas, desde aquelas que lidam com materiais inflamáveis, até aquelas que precisam cumprir normas de segurança. Também prestamos serviços para pessoas interessadas em melhorar a segurança de suas residências. </p>
 
