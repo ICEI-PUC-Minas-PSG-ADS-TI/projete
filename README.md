@@ -1,6 +1,6 @@
 # Projete
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
 `DISCIPLINA`
 
