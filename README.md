@@ -6,8 +6,10 @@
 
 `SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
-
+O objetivo  deste trabalho é criar uma plataforma digital para uma empresa de proteção
+contra incêndios, organizando e compartilhando informações claras sobre seus serviços,
+produtos e práticas de segurança. Queremos garantir que a plataforma seja fácil de usar e que
+ajude clientes e parceiros a acessar tudo o que precisam de forma prática.
 ## Integrantes
 
 * Nome completo do aluno 1
