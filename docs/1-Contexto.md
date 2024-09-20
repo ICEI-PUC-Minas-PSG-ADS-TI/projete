@@ -34,11 +34,3 @@ O mercado relacionado à segurança contra fogo vem crescendo cada vez mais, imp
 
 O público-alvo inclui diversos tipos de empresas, desde aquelas que lidam com materiais inflamáveis, até aquelas que precisam cumprir normas de segurança. Também prestamos serviços para pessoas interessadas em melhorar a segurança de suas residências.
 
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
