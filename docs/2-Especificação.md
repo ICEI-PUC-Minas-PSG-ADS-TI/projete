@@ -57,28 +57,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 
 <div align = "center">
-<img width="456" alt="funcionais" src="https://github.com/user-attachments/assets/312b7d22-c691-437b-a476-ad1c323e6b59">
+<img width="700" alt="funcionais" src="https://github.com/user-attachments/assets/312b7d22-c691-437b-a476-ad1c323e6b59">
 </div>
 
 ### Requisitos não Funcionais
 <div align = "center">
-<img width="461" alt="nfuncionais" src="https://github.com/user-attachments/assets/9da3d542-8060-4914-85c7-808ca52fd0ea">
+<img width="700" alt="nfuncionais" src="https://github.com/user-attachments/assets/9da3d542-8060-4914-85c7-808ca52fd0ea">
 </div>
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
