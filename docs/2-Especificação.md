@@ -7,36 +7,37 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
-1.Carlos Gestor
 
-Carlos, um gestor sênior em uma empresa de engenharia, trabalha longas horas e supervisiona vários projetos de construção. Com foco na segurança, ele se preocupa especialmente com a prevenção de incêndios nos canteiros de obra, onde há materiais inflamáveis e maquinários pesados. No entanto, sua agenda lotada não lhe permite lidar pessoalmente com a inspeção e manutenção dos sistemas de segurança. Ele precisa de uma empresa confiável que cuide das inspeções regulares e da manutenção dos equipamentos de prevenção de incêndio, garantindo que tudo esteja dentro das normas. Isso lhe proporcionaria tranquilidade tanto no trabalho quanto em casa, sabendo que está seguro.
+``Carlos Gestor``
+
+<p align="justify"> Carlos, um gestor sênior em uma empresa de engenharia, trabalha longas horas e supervisiona vários projetos de construção. Com foco na segurança, ele se preocupa especialmente com a prevenção de incêndios nos canteiros de obra, onde há materiais inflamáveis e maquinários pesados. No entanto, sua agenda lotada não lhe permite lidar pessoalmente com a inspeção e manutenção dos sistemas de segurança. Ele precisa de uma empresa confiável que cuide das inspeções regulares e da manutenção dos equipamentos de prevenção de incêndio, garantindo que tudo esteja dentro das normas. Isso lhe proporcionaria tranquilidade tanto no trabalho quanto em casa, sabendo que está seguro. </p>
 
 <div align = "center">
-<img <img width="350" alt="empresario" src="https://github.com/user-attachments/assets/ecdee88f-d09e-4fb0-8a20-1dfc0d489eac">
+  <img width="350" src="https://github.com/user-attachments/assets/ecdee88f-d09e-4fb0-8a20-1dfc0d489eac">
 </div>
 
-2.Mariana Arquiteta
+``Mariana Arquiteta``
 
-Mariana, uma arquiteta talentosa, vive uma rotina agitada entre projetos e reuniões. Embora ame seu trabalho, ela raramente tem tempo para cuidar dos detalhes de sua casa. Preocupada com a segurança de sua residência, especialmente com o risco de incêndio, Mariana quer garantir que sua casa esteja protegida. Ela precisa de um serviço especializado em prevenção de incêndios que possa realizar inspeções regulares e garantir que os alarmes, extintores e outros equipamentos de segurança estejam funcionando corretamente. Assim, Mariana pode focar no trabalho, sabendo que sua casa está segura.
+<p align="justify"> Mariana, uma arquiteta talentosa, vive uma rotina agitada entre projetos e reuniões. Embora ame seu trabalho, ela raramente tem tempo para cuidar dos detalhes de sua casa. Preocupada com a segurança de sua residência, especialmente com o risco de incêndio, Mariana quer garantir que sua casa esteja protegida. Ela precisa de um serviço especializado em prevenção de incêndios que possa realizar inspeções regulares e garantir que os alarmes, extintores e outros equipamentos de segurança estejam funcionando corretamente. Assim, Mariana pode focar no trabalho, sabendo que sua casa está segura. </p>
 
 <div align = "center">
-<img <img width="350" alt="advogada" src="https://github.com/user-attachments/assets/1bd95fc0-6bf8-4672-a4fa-2ef59999e528">
+  <img width="350" src="https://github.com/user-attachments/assets/1bd95fc0-6bf8-4672-a4fa-2ef59999e528">
 </div>
 
-3.Rafael Chef de Restaurante
+``Rafael Chef de Restaurante``
 
-Rafael, um chef renomado, comanda um restaurante movimentado e sabe que o risco de incêndio na cozinha é alto. Com a agenda cheia, ele precisa de um serviço confiável de prevenção de incêndios para garantir que os extintores, sprinklers e alarmes estejam em perfeito estado. Assim, Rafael pode focar na culinária, sabendo que o restaurante está seguro.
+<p align="justify"> Rafael, um chef renomado, comanda um restaurante movimentado e sabe que o risco de incêndio na cozinha é alto. Com a agenda cheia, ele precisa de um serviço confiável de prevenção de incêndios para garantir que os extintores, sprinklers e alarmes estejam em perfeito estado. Assim, Rafael pode focar na culinária, sabendo que o restaurante está seguro. </p>
 
 <div align = "center">
-<img <img width="350" alt="cozinha" src="https://github.com/user-attachments/assets/c7fc2ed6-1da4-44f9-b9c7-03821dac6514">
+  <img width="350" src="https://github.com/user-attachments/assets/c7fc2ed6-1da4-44f9-b9c7-03821dac6514">
 </div>
 
-4.Luciana Dona de Casa
+``Luciana Dona de Casa``
 
-Luciana é dona de casa e cuida sozinha de seu lar e de seus dois filhos pequenos. Com tantos afazeres, ela se preocupa com a segurança da família, especialmente com o risco de incêndios, já que utiliza diversos eletrodomésticos diariamente. Ela precisa de um serviço especializado que possa instalar e manter alarmes de incêndio, extintores e sensores de fumaça em perfeito estado. Isso garantiria a proteção de sua casa e a tranquilidade de saber que sua família está segura, permitindo que ela se concentre nas demais tarefas do dia a dia.
+<p align="justify"> Luciana é dona de casa e cuida sozinha de seu lar e de seus dois filhos pequenos. Com tantos afazeres, ela se preocupa com a segurança da família, especialmente com o risco de incêndios, já que utiliza diversos eletrodomésticos diariamente. Ela precisa de um serviço especializado que possa instalar e manter alarmes de incêndio, extintores e sensores de fumaça em perfeito estado. Isso garantiria a proteção de sua casa e a tranquilidade de saber que sua família está segura, permitindo que ela se concentre nas demais tarefas do dia a dia. </p>
 
 <div align = "center">
-<img <img width="350"  alt="donadecsa" src="https://github.com/user-attachments/assets/b45e9dc0-1715-4687-bcee-fa7a09932678">
+  <img width="350" src="https://github.com/user-attachments/assets/b45e9dc0-1715-4687-bcee-fa7a09932678">
 </div>
 
 ## Histórias de Usuários
@@ -55,27 +56,21 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-
 <div align = "center">
-<img width="700" alt="funcionais" src="https://github.com/user-attachments/assets/312b7d22-c691-437b-a476-ad1c323e6b59">
+  <img width="700" src="https://github.com/user-attachments/assets/312b7d22-c691-437b-a476-ad1c323e6b59">
 </div>
 
 ### Requisitos não Funcionais
+
 <div align = "center">
-<img width="700" alt="nfuncionais" src="https://github.com/user-attachments/assets/9da3d542-8060-4914-85c7-808ca52fd0ea">
+  <img width="700" src="https://github.com/user-attachments/assets/9da3d542-8060-4914-85c7-808ca52fd0ea">
 </div>
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
+O projeto está restrito pelos itens apresentados na tabela a seguir:
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
