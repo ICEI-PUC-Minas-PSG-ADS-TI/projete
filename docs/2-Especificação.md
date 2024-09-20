@@ -43,9 +43,8 @@ Luciana é dona de casa e cuida sozinha de seu lar e de seus dois filhos pequeno
 
 | EU COMO...           | QUERO/PRECISO...                                  | PARA...                                           |
 |----------------------|----------------------------------------------------|--------------------------------------------------|
-| Juan Barcelos           | Acessar um blog com informações detalhadas sobre produtos e serviços | Me informar e agendar o serviço ideal para proteger minha residência
-             |
-| Marcos Paulo   | Ver imagens demonstrativas dos produtos e ler depoimentos de outros clientes         | Ter mais confiabilidade na qualidade dos produtos e serviços oferecidos antes de tomar uma decisão                        |
+| Juan Barcelos           | Acessar um blog com informações detalhadas sobre produtos e serviços | Me informar e agendar o serviço ideal para proteger minha residência  |
+| Marcos Paulo   | Ver imagens demonstrativas dos produtos e ler depoimentos de outros clientes         | Ter mais confiabilidade na qualidade dos produtos e serviços oferecidos antes de tomar uma decisão                 |
 | Marina Freitas             | Ver uma lista de clientes anteriores e ler a seção de perguntas frequentes         | Validar a experiência da empresa e ter minhas principais dúvidas respondidas |
 | Zoe Fabregas          | Que o site seja fácil de navegar, rápido e acessível          |  Ter uma experiência positiva independente de como ou onde estou acessando o site     |
 
