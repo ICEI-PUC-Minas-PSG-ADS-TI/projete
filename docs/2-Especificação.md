@@ -12,7 +12,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 Carlos, um gestor sênior em uma empresa de engenharia, trabalha longas horas e supervisiona vários projetos de construção. Com foco na segurança, ele se preocupa especialmente com a prevenção de incêndios nos canteiros de obra, onde há materiais inflamáveis e maquinários pesados. No entanto, sua agenda lotada não lhe permite lidar pessoalmente com a inspeção e manutenção dos sistemas de segurança. Ele precisa de uma empresa confiável que cuide das inspeções regulares e da manutenção dos equipamentos de prevenção de incêndio, garantindo que tudo esteja dentro das normas. Isso lhe proporcionaria tranquilidade tanto no trabalho quanto em casa, sabendo que está seguro.
 
 <div align = "center">
-<img <img width="350px" alt="anaexecutiva" src="https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/assets/143142269/2a506614-99fd-4b53-9934-ee80b12458b2">
+<img <img width="229" alt="empresario" src="https://github.com/user-attachments/assets/ecdee88f-d09e-4fb0-8a20-1dfc0d489eac">
 </div>
 ## Histórias de Usuários
 
