@@ -20,7 +20,7 @@ ajude clientes e parceiros a acessar tudo o que precisam de forma prática.
 
 ## Orientador
 
-* Nome completo do professor 1
+* Ramon Lacerda Marques
 
 ## Instruções de utilização
 
