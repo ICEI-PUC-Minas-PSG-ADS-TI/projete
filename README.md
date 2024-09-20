@@ -13,10 +13,10 @@ Queremos garantir que a plataforma seja fácil de usar e que
 ajude clientes e parceiros a acessar tudo o que precisam de forma prática.
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Débora Pereira Fonseca
+* Arthur Henrique Dias da Silva Campos
+* Mariana Martins Moreira
+* Gabriela Cristina Freitas de Lima
 
 ## Orientador
 
