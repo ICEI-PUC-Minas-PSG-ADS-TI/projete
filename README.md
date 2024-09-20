@@ -6,24 +6,21 @@
 
 `SEMESTRE`
 
-O objetivo  deste trabalho é criar uma plataforma digital para uma empresa de proteção contra incêndios, organizando e compartilhando informações claras sobre seus serviços, produtos e práticas de segurança. Queremos garantir que a plataforma seja fácil de usar e que ajude clientes e parceiros a acessar tudo o que precisam de forma prática.
-## Integrantes
+<p align="justify"> O objetivo  deste trabalho é criar uma plataforma digital para uma empresa de proteção contra incêndios, organizando e compartilhando informações claras sobre seus serviços, produtos e práticas de segurança. Queremos garantir que a plataforma seja fácil de usar e que ajude clientes e parceiros a acessar tudo o que precisam de forma prática. </p>
 
+## Integrantes
 * Débora Pereira Fonseca
 * Arthur Henrique Dias da Silva Campos
 * Mariana Martins Moreira
 * Gabriela Cristina Freitas de Lima
 
 ## Orientador
-
 * Ramon Lacerda Marques
 
 ## Instruções de utilização
-
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
 
 # Documentação
-
 <ol>
 <li><a href="docs/1-Contexto.md"> Documentação de Contexto</a></li>
 <li><a href="docs/2-Especificação.md"> Especificação do Projeto</a></li>
