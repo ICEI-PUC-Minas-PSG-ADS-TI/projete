@@ -1,4 +1,4 @@
-## 1. Introdução
+## Introdução
 <p align="justify"> A segurança contra incêndio é uma preocupação crescente em muitas áreas, desde residências até grandes indústrias. Segundo o Anuário Estatístico do Corpo de Bombeiros, mais de 107 mil incêndios ocorreram no Brasil  até o momento (2024), afetando diretamente a vida de milhares de pessoas e causando grandes prejuízos econômicos. Prevenir e combater incêndios não é apenas uma necessidade legal, mas também uma questão de segurança pública que requer atenção contínua e dedicada.
 <br>
 <br>
