@@ -14,7 +14,7 @@ Colem aqui os modelos dos processos atuais (modelo AS-IS), elaborados com o apoi
 
 ### 3.2. Descrição geral da proposta (Modelagem TO BE)
 
-Resumo dos Pontos de Melhoria no TO BE: <br>
+Resumo dos pontos de melhoria: <br>
 ``1`` Formulário online no lugar de contato telefônico ou e-mail manual. <br>
 ``2`` Automatização de e-mails para recebimento de pedidos e envio de confirmações. <br>
 ``3`` Agendamento de avaliação pelo site, sem necessidade de discussões manuais. <br>
