@@ -31,6 +31,6 @@ Resumo dos pontos de melhoria:
 
 ### Modelagem dos processos
 
-[PROCESSO 1 - AS-IS](./processos/processo-1-as-is.md")
+[PROCESSO 1 - AS-IS](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/projete/blob/ff0f2c9b042b8fcc7224379679cf53f862c0e1b2/docs/processos/processo-1-as-is.md)
 
 [PROCESSO 2 - Nome do Processo](./processos/processo-2-nome-do-processo.md "Detalhamento do Processo 2.")
