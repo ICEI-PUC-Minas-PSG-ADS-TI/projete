@@ -16,10 +16,7 @@ Papel: Realiza a avaliação no local e executa o serviço de combate a incêndi
 
 ### Modelagem da situação atual (Modelagem AS IS)
 
-_Apresente uma descrição textual de como os sistemas atuais resolvem o problema que se propõe a resolver.  Caso sua proposta seja inovadora e não existam processos claramente definidos, **apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente**, mesmo que não se utilize tecnologia computacional._
-
-Com o tema do projeto definido, escolham alguns processos neste contexto de negócios. Para ilustrar potenciais ganhos com a automatização, imaginem processos manuais, ineficientes e/ou com muitas idas e vindas, gerando, assim, retrabalho.
-Colem aqui os modelos dos processos atuais (modelo AS-IS), elaborados com o apoio da ferramenta baseada em BPMN utilizada na disciplina.
+A empresa ainda adota um processo manual e fragmentado para o atendimento ao cliente. O fluxo atual é ineficiente, com múltiplos pontos de contato, retrabalho e falta de integração entre os sistemas de comunicação e pagamento. Isso gera atrasos na resposta ao cliente e na execução dos serviços.
 
 ### Descrição geral da proposta (Modelagem TO BE)
 
