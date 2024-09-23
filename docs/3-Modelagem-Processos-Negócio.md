@@ -31,6 +31,6 @@ Resumo dos pontos de melhoria:
 
 ### Modelagem dos processos
 
-[PROCESSO 1 - AS-IS](./docs/processos/processo-1-as-is.md")
+[PROCESSO 1 - AS-IS](./processos/processo-1-as-is.md")
 
 [PROCESSO 2 - Nome do Processo](./processos/processo-2-nome-do-processo.md "Detalhamento do Processo 2.")
