@@ -14,11 +14,12 @@ Colem aqui os modelos dos processos atuais (modelo AS-IS), elaborados com o apoi
 
 ### 3.2. Descrição geral da proposta (Modelagem TO BE)
 
-Tendo identificado os gargalos dos modelos AS IS, apresentem uma descrição da proposta de solução, buscando maior eficiência com a introdução da tecnologia. Abordem também os limites dessa solução e o seu alinhamento com as estratégias e objetivos do contexto de negócio escolhido. 
-Colem aqui os modelos da solução proposta (modelo TO BE) elaborados com o apoio da ferramenta baseada em BPMN utilizada na disciplina.
-Cada processo identificado deve ter seu modelo TO-BE específico. Descrevam as oportunidades de melhoria de cada processo da solução proposta.
-
-_Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias._
+Resumo dos Pontos de Melhoria no TO BE:
+``1`` Formulário online no lugar de contato telefônico ou e-mail manual.
+``2`` Automatização de e-mails para recebimento de pedidos e envio de confirmações.
+``3`` Agendamento de avaliação pelo site, sem necessidade de discussões manuais.
+``4`` Pagamento online, reduzindo a necessidade de interações manuais com comprovantes.
+``5`` Automação parcial do processo de confirmação de pagamento e feedback.
 
 ### 3.3. Modelagem dos processos
 
