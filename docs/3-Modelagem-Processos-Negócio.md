@@ -1,9 +1,12 @@
 ## Participantes do processo de negócio
 
-Identifiquem hipoteticamente os diferentes perfis dos Stakeholders (participantes do processo)
-chave do sistema. Procurem caracterizar os diferentes papéis desempenhados no(s) processo(s)
-relacionados ao tema escolhido pelo grupo. Cada papel desempenha funções diferentes no(s)
-processo(s).
+``Cliente``
+<br>
+Papel: Solicita um serviço de combate a incêndio.
+
+``Equipe Técnica``
+<br>
+Papel: Realiza a avaliação no local e executa o serviço de combate a incêndio.
 
 ## Modelagem dos Processos de Negócio
 
