@@ -1,10 +1,10 @@
-# 1.4 Especificação do Projeto
+## 1.4 Especificação do Projeto
 
 Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
 
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
-## Personas
+### Personas
 
 ``Carlos Gestor``
 
@@ -38,7 +38,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
   <img width="350" src="https://github.com/user-attachments/assets/b45e9dc0-1715-4687-bcee-fa7a09932678">
 </div>
 
-## Histórias de Usuários
+### Histórias de Usuários
 
 | EU COMO...           | QUERO/PRECISO...                                  | PARA...                                           |
 |----------------------|----------------------------------------------------|--------------------------------------------------|
@@ -48,7 +48,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 | Zoe Fabregas          | Que o site seja fácil de navegar, rápido e acessível          |  Ter uma experiência positiva independente de como ou onde estou acessando o site     |
 
 
-## Requisitos
+### Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
@@ -64,7 +64,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
   <img width="700" src="https://github.com/user-attachments/assets/9da3d542-8060-4914-85c7-808ca52fd0ea">
 </div>
 
-## Restrições
+### Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir:
 
