@@ -33,4 +33,4 @@ Resumo dos pontos de melhoria:
 
 [PROCESSO 1 - AS-IS](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/projete/blob/ff0f2c9b042b8fcc7224379679cf53f862c0e1b2/docs/processos/processo-1-as-is.md)
 
-[PROCESSO 2 - TO-BE](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/projete/blob/49bfb1f0ab3a92e57e4d3ff6a9321e9ea80c20fc/docs/processos/processo-2-to-be.md)
+[PROCESSO 2 - TO-BE](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/projete/blob/546f44b0edb2a6350e32aa4e015d89bf67887de5/docs/processos/processo-2-to-be.md)
