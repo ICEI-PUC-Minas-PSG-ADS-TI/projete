@@ -13,7 +13,7 @@ Além disso, a carência de conhecimento técnico sobre o funcionamento, instala
 ## Objetivo Geral
 <p align="justify"> O objetivo geral deste trabalho é criar uma plataforma digital para uma empresa de proteção contra incêndios, organizando e compartilhando informações claras sobre seus serviços, produtos e práticas de segurança. Queremos garantir que a plataforma seja fácil de usar e que ajude clientes e parceiros a acessar tudo o que precisam de forma prática. </p>
 
-## Objetivo específicos
+## Objetivos específicos
 <p align="justify"> Os objetivos específicos incluem disponibilizar materiais educativos e orientações técnicas sobre segurança contra incêndio, com o intuito de promover a conscientização sobre boas práticas de segurança e garantir que as soluções adotadas sejam eficazes e melhorar a comunicação, tornando o contato com a empresa rápido e fácil. Isso permitirá que clientes e parceiros peçam orçamentos ou tirem dúvidas de forma prática, fortalecendo a confiança e o relacionamento com a empresa. </p>
 
 ## Justificativa
