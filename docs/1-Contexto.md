@@ -10,7 +10,6 @@ Neste contexto, as empresas profissionais de combate a incêndios desempenham um
 <br>
 Além disso, a carência de conhecimento técnico sobre o funcionamento, instalação, e manutenção de sistemas de proteção contra incêndio, como detectores de fumaça, sprinklers, sistemas de hidrantes, e outros dispositivos de segurança, pode levar à escolha inadequada de soluções, comprometendo a segurança e a conformidade com normas regulamentares. Portanto, há uma necessidade urgente de uma plataforma que ofereça informações completas, claras e organizadas sobre os diversos tipos de serviços e equipamentos de combate a incêndio, suas aplicações e as normas de segurança associadas. </p>
 
-# Objetivos
 ## Objetivo Geral
 <p align="justify"> O objetivo geral deste trabalho é criar uma plataforma digital para uma empresa de proteção contra incêndios, organizando e compartilhando informações claras sobre seus serviços, produtos e práticas de segurança. Queremos garantir que a plataforma seja fácil de usar e que ajude clientes e parceiros a acessar tudo o que precisam de forma prática. </p>
 
