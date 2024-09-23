@@ -9,10 +9,10 @@
 <p align="justify"> O objetivo  deste trabalho é criar uma plataforma digital para uma empresa de proteção contra incêndios, organizando e compartilhando informações claras sobre seus serviços, produtos e práticas de segurança. Queremos garantir que a plataforma seja fácil de usar e que ajude clientes e parceiros a acessar tudo o que precisam de forma prática. </p>
 
 ## Integrantes
-* Débora Pereira Fonseca
 * Arthur Henrique Dias da Silva Campos
-* Mariana Martins Moreira
+* Débora Pereira Fonseca
 * Gabriela Cristina Freitas de Lima
+* Mariana Martins Moreira
 
 ## Orientador
 * Ramon Lacerda Marques
