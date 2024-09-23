@@ -1,5 +1,11 @@
-## 3. Modelagem dos Processos de Negócio
+## 2. Participantes do processo de negócio
 
+Identifiquem hipoteticamente os diferentes perfis dos Stakeholders (participantes do processo)
+chave do sistema. Procurem caracterizar os diferentes papéis desempenhados no(s) processo(s)
+relacionados ao tema escolhido pelo grupo. Cada papel desempenha funções diferentes no(s)
+processo(s).
+
+## 3. Modelagem dos Processos de Negócio
 
 > **Links Úteis**:
 > - [Modelagem de Processos AS-IS x TO-BE](https://dheka.com.br/modelagem-as-is-to-be/)
