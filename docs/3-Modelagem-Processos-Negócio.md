@@ -31,6 +31,6 @@ Resumo dos pontos de melhoria:
 
 ### Modelagem dos processos
 
-[PROCESSO 1 - AS-IS](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/projete/blob/ff0f2c9b042b8fcc7224379679cf53f862c0e1b2/docs/processos/processo-1-as-is.md)
+[PROCESSO 1 - AS-IS](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/projete/blob/530c244c2f45e0b919c67f61687aa2f6596ad74b/docs/processos/processo-1-as-is.md)
 
 [PROCESSO 2 - TO-BE](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/projete/blob/e27ba154e08ccebbe1009d952ca7444f0b5c7fc5/docs/processos/processo-2-to-be.md)
