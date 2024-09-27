@@ -24,10 +24,9 @@ Resumo dos pontos de melhoria:
 <br>
 <br>
 ``1`` Formulário online no lugar de contato telefônico ou e-mail manual. <br>
-``2`` Automatização de e-mails para recebimento de pedidos e envio de confirmações. <br>
-``3`` Agendamento de avaliação pelo site, sem necessidade de discussões manuais. <br>
-``4`` Pagamento online, reduzindo a necessidade de interações manuais com comprovantes. <br>
-``5`` Automação parcial do processo de confirmação de pagamento e feedback.
+``2`` Automação parcial de e-mails para recebimento de pedidos e envio de confirmações. <br>
+``3`` Pagamento online, reduzindo a necessidade de interações manuais com comprovantes. <br>
+``4`` Automação parcial do processo de confirmação de pagamento.
 
 ### Modelagem dos processos
 
