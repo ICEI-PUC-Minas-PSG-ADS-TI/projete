@@ -33,9 +33,8 @@ São protótipos usados em design de interface para sugerir a estrutura de um si
 > - [Axure](https://www.axure.com/edu) (Licença Educacional)
 > - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
 
-<p class="">
- 
-</p>
+<img src="https://github.com/user-attachments/assets/924ece57-2c74-4b3e-9423-73d9abcc76dc">
+
 
 
 ## Diagrama de Classes
