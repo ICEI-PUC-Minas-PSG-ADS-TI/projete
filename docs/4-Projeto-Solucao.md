@@ -4,16 +4,7 @@
 
 ## 4.1. Arquitetura da solução
 
-
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
-
- Inclua um diagrama da solução e descreva os módulos e as tecnologias
- que fazem parte da solução. Discorra sobre o diagrama.
- 
- **Exemplo do diagrama de Arquitetura**:
- 
- ![Exemplo de Arquitetura](./images/arquitetura-exemplo.png)
- 
+![Fluxograma Pedido Azul Cinza](https://github.com/user-attachments/assets/f47bad5c-bfc2-4cd3-a827-a82c623e4300)
 
 ### 4.2. Protótipos de telas
 
@@ -121,20 +112,23 @@ CREATE TABLE Prescricao (
 
 Este script deverá ser incluído em um arquivo .sql na pasta src\bd.
 
-
-
-
 ### 4.4. Tecnologias
 
-_Descreva qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas._
+Para a implementação da solução, será utilizada uma combinação de tecnologias para garantir que o sistema funcione de maneira eficiente, tanto no front-end quanto no back-end. As principais tecnologias e ferramentas a serem utilizadas são:
 
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
-
+1. Visual Studio Code: IDE de desenvolvimento, que permite a edição de código e integração com várias ferramentas.
+2. HTML: Para estruturar o conteúdo das páginas web.
+3. CSS: Para estilizar e personalizar a interface do usuário.
+4. JavaScript: Linguagem de programação usada para tornar a página interativa no lado do cliente e controlar o comportamento dinâmico da aplicação.
+5. Bootstrap: Framework CSS que facilita a criação de layouts responsivos e estilos modernos com componentes prontos.
+6. Node.js: Ambiente de execução JavaScript no lado do servidor, que será usado em conjunto com Express.js para gerenciar o back-end e processar requisições do usuário.
+7. Express.js: Framework para Node.js que permite criar rotas, middleware e lidar com requisições HTTP de maneira eficiente.
+8. MySQL: Sistema de gerenciamento de banco de dados relacional, que armazenará as informações da aplicação, como dados de clientes, produtos, etc.
 
 | **Dimensão**   | **Tecnologia**  |
 | ---            | ---             |
 | SGBD           | MySQL           |
 | Front end      | HTML+CSS+JS     |
-| Back end       | Java SpringBoot |
-| Deploy         | Github Pages    |
+| Back end       | Node.js+Express.js |
+| Deploy         | Netlify    |
 
