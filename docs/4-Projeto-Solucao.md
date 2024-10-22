@@ -19,7 +19,8 @@
 
 ### 4.3. Modelo DER
 
-<img width="950" alt="der" src="https://github.com/user-attachments/assets/6981dd82-f682-430b-a81f-e7b53925c46f">
+![WhatsApp Image 2024-10-21 at 22 50 10](https://github.com/user-attachments/assets/1e609d69-27d5-4efc-8c5f-1851ed9e8e12)
+
 
 ### 4.3.1. Modelo Físico
 
@@ -30,6 +31,7 @@ CREATE TABLE produtos (
     tipo_produto NVARCHAR(255) NOT NULL,
     qtde_estoque INT DEFAULT 0
 );
+
 CREATE TABLE usuarios (
     usuario_id BIGINT PRIMARY KEY IDENTITY(1,1),  
     nome NVARCHAR(255) NOT NULL,
@@ -37,6 +39,7 @@ CREATE TABLE usuarios (
     telefone NVARCHAR(50),                        
     endereco NVARCHAR(255)                        
 );
+
 CREATE TABLE feedbacks (
     feedback_id BIGINT PRIMARY KEY IDENTITY(1,1),
     usuario_id BIGINT NOT NULL,                       
@@ -45,12 +48,14 @@ CREATE TABLE feedbacks (
     avaliacao INT NOT NULL,                       
     FOREIGN KEY (usuario_id) REFERENCES usuarios(usuario_id)  
 );
+
 CREATE TABLE servicos (
     servico_id BIGINT PRIMARY KEY IDENTITY(1,1),   
     nome_servico NVARCHAR(255) NOT NULL,           
     preco_servico DECIMAL(10, 2) NOT NULL,         
     descricao_servico NVARCHAR(MAX)                
 );
+
 CREATE TABLE orcamentos (
     orcamento_id BIGINT PRIMARY KEY IDENTITY(1,1),  
     usuario_id BIGINT NOT NULL,                     
@@ -58,6 +63,7 @@ CREATE TABLE orcamentos (
     status NVARCHAR(50) NOT NULL,                   
     FOREIGN KEY (usuario_id) REFERENCES usuarios(usuario_id)  
 );
+
 CREATE TABLE orcamentos_servicos (
     orcamento_servico_id BIGINT PRIMARY KEY IDENTITY(1,1),  
     orcamento_id BIGINT NOT NULL,                          
@@ -65,6 +71,7 @@ CREATE TABLE orcamentos_servicos (
     FOREIGN KEY (orcamento_id) REFERENCES orcamentos(orcamento_id),  
     FOREIGN KEY (servico_id) REFERENCES servicos(servico_id)         
 );
+
 CREATE TABLE orcamentos_produtos (
     orcamento_produto_id BIGINT PRIMARY KEY IDENTITY(1,1),  
     orcamento_id BIGINT NOT NULL,                          
