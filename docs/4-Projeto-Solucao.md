@@ -19,62 +19,60 @@
 
 ### 4.3. Modelo DER
 
-O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.]
-
-As referências abaixo irão auxiliá-lo na geração do artefato “Modelo ER”.
-
-> - [Como fazer um diagrama entidade relacionamento | Lucidchart](https://www.lucidchart.com/pages/pt/como-fazer-um-diagrama-entidade-relacionamento)
+<img width="950" alt="der" src="https://github.com/user-attachments/assets/6981dd82-f682-430b-a81f-e7b53925c46f">
 
 ### 4.3.1. Modelo Físico
 
-Insira aqui o script de criação das tabelas do banco de dados.
-
-Veja um exemplo:
-
-<code>
-
- -- Criação da tabela Médico
-CREATE TABLE Medico (
-    MedCodigo INTEGER PRIMARY KEY,
-    MedNome VARCHAR(100)
+CREATE TABLE produtos (
+    produto_id BIGINT PRIMARY KEY IDENTITY(1,1),
+   nome_produto NVARCHAR(255) NOT NULL,
+    preco_produto DECIMAL(10, 2) NOT NULL,
+    tipo_produto NVARCHAR(255) NOT NULL,
+    qtde_estoque INT DEFAULT 0
 );
-
-
--- Criação da tabela Paciente
-CREATE TABLE Paciente (
-    PacCodigo INTEGER PRIMARY KEY,
-    PacNome VARCHAR(100)
+CREATE TABLE usuarios (
+    usuario_id BIGINT PRIMARY KEY IDENTITY(1,1),  
+    nome NVARCHAR(255) NOT NULL,
+    email NVARCHAR(255) NOT NULL,
+    telefone NVARCHAR(50),                        
+    endereco NVARCHAR(255)                        
 );
-
--- Criação da tabela Consulta
-CREATE TABLE Consulta (
-    ConCodigo INTEGER PRIMARY KEY,
-    MedCodigo INTEGER,
-    PacCodigo INTEGER,
-    Data DATE,
-    FOREIGN KEY (MedCodigo) REFERENCES Medico(MedCodigo),
-    FOREIGN KEY (PacCodigo) REFERENCES Paciente(PacCodigo)
+CREATE TABLE feedbacks (
+    feedback_id BIGINT PRIMARY KEY IDENTITY(1,1),
+    usuario_id BIGINT NOT NULL,                       
+    nome_feedback NVARCHAR(255) NOT NULL,         
+    texto NVARCHAR(MAX),                          
+    avaliacao INT NOT NULL,                       
+    FOREIGN KEY (usuario_id) REFERENCES usuarios(usuario_id)  
 );
-
--- Criação da tabela Medicamento
-CREATE TABLE Medicamento (
-    MdcCodigo INTEGER PRIMARY KEY,
-    MdcNome VARCHAR(100)
+CREATE TABLE servicos (
+    servico_id BIGINT PRIMARY KEY IDENTITY(1,1),   
+    nome_servico NVARCHAR(255) NOT NULL,           
+    preco_servico DECIMAL(10, 2) NOT NULL,         
+    descricao_servico NVARCHAR(MAX)                
 );
-
--- Criação da tabela Prescricao
-CREATE TABLE Prescricao (
-    ConCodigo INTEGER,
-    MdcCodigo INTEGER,
-    Posologia VARCHAR(200),
-    PRIMARY KEY (ConCodigo, MdcCodigo),
-    FOREIGN KEY (ConCodigo) REFERENCES Consulta(ConCodigo),
-    FOREIGN KEY (MdcCodigo) REFERENCES Medicamento(MdcCodigo)
+CREATE TABLE orcamentos (
+    orcamento_id BIGINT PRIMARY KEY IDENTITY(1,1),  
+    usuario_id BIGINT NOT NULL,                     
+    preco_total DECIMAL(10, 2) NOT NULL,            
+    status NVARCHAR(50) NOT NULL,                   
+    FOREIGN KEY (usuario_id) REFERENCES usuarios(usuario_id)  
 );
-
-</code>
-
-Este script deverá ser incluído em um arquivo .sql na pasta src\bd.
+CREATE TABLE orcamentos_servicos (
+    orcamento_servico_id BIGINT PRIMARY KEY IDENTITY(1,1),  
+    orcamento_id BIGINT NOT NULL,                          
+    servico_id BIGINT NOT NULL,                            
+    FOREIGN KEY (orcamento_id) REFERENCES orcamentos(orcamento_id),  
+    FOREIGN KEY (servico_id) REFERENCES servicos(servico_id)         
+);
+CREATE TABLE orcamentos_produtos (
+    orcamento_produto_id BIGINT PRIMARY KEY IDENTITY(1,1),  
+    orcamento_id BIGINT NOT NULL,                          
+    produto_id BIGINT NOT NULL,                            
+    qtde_estoque INT NOT NULL,                             
+    FOREIGN KEY (orcamento_id) REFERENCES orcamentos(orcamento_id),  
+    FOREIGN KEY (produto_id) REFERENCES produtos(produto_id)         
+);
 
 ### 4.4. Tecnologias
 
